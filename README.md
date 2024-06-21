@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateo Khalil</h1>
-<h3 align="center">QA Solutions Specialist</h3>
+<h3 align="center">Quality Solutions</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
