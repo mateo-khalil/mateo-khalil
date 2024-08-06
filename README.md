@@ -3,6 +3,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Full Guide for Setting up Custom Node in Jenkins &lpar;MacOS&rpar;](https://mateo-khalil.medium.com/full-guide-for-setting-up-custom-node-in-jenkins-macos-6813b470d3c4?source=rss-6997876df81b------2)
 <!-- BLOG-POST-LIST:END -->
 
 
