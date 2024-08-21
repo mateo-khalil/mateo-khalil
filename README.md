@@ -28,7 +28,7 @@
 
 <h3 align="left" style="display: inline-block;">Follow Me:</h3>
 <a href="https://medium.com/@mateo-khalil" target="_blank" style="display: inline-block; margin-left: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" alt="Medium Profile" style="height: 30px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" style="height: 30px; vertical-align: middle;"/>
 </a>
 
 <hr/>
