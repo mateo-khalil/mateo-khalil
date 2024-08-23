@@ -10,13 +10,32 @@
 
 ### Technologies I Work With
 
-<p align="center">
+#### Programming Languages
+
+<p align="left">
   <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+</p>
+
+#### CI/CD Tools
+
+<p align="left">
   <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/></a>
+  <a href="https://fastlane.tools" target="_blank"><img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
+  <a href="https://circleci.com" target="_blank"><img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/></a>
+</p>
+
+#### Testing Frameworks & Automation Tools
+
+<p align="left">
   <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/></a>
-  <a href="https://mochajs.org" target="_blank"><img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha"/></a>
-    <a href="https://appium.io" target="_blank"><img src="https://img.shields.io/badge/Appium-41A7EF?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/></a>
   <a href="https://webdriver.io" target="_blank"><img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO"/></a>
+  <a href="https://appium.io" target="_blank"><img src="https://img.shields.io/badge/Appium-41A7EF?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/></a>
+  <a href="https://mochajs.org" target="_blank"><img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha"/></a>
+  <a href="https://k6.io" target="_blank"><img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="K6"/></a>
 </p>
 
 ### Blog Posts
