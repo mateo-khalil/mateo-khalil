@@ -24,6 +24,8 @@
 <p align="left">
   <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/></a>
   <a href="https://fastlane.tools" target="_blank"><img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://github.com/features/packages" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Packages-181717?style=for-the-badge&logo=github-packages&logoColor=white" alt="GitHub Packages"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
   <a href="https://circleci.com" target="_blank"><img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/></a>
 </p>
