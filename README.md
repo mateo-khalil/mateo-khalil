@@ -32,12 +32,16 @@
 
 #### Testing Frameworks & Automation Tools
 
+#### Testing Frameworks & Automation Tools
+
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/></a>
   <a href="https://webdriver.io" target="_blank"><img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO"/></a>
   <a href="https://appium.io" target="_blank"><img src="https://img.shields.io/badge/Appium-41A7EF?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/></a>
   <a href="https://mochajs.org" target="_blank"><img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha"/></a>
   <a href="https://k6.io" target="_blank"><img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="K6"/></a>
+  <a href="https://cucumber.io" target="_blank"><img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=white" alt="Cucumber"/></a>
+  <a href="https://cucumber.io/docs/gherkin/" target="_blank"><img src="https://img.shields.io/badge/Gherkin-375EAB?style=for-the-badge&logoColor=white" alt="Gherkin (Text Badge)"/></a>
 </p>
 
 ### Blog Posts
