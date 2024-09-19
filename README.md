@@ -4,10 +4,6 @@
   <strong>Mobile and Web Automation Developer</strong>
 </h3>
 
-<h3 align="center">
-  <strong>DevOps Developer</strong>
-</h3>
-
 ### Technologies I Work With
 
 #### Programming Languages
