@@ -32,8 +32,6 @@
 
 #### Testing Frameworks & Automation Tools
 
-#### Testing Frameworks & Automation Tools
-
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/></a>
   <a href="https://webdriver.io" target="_blank"><img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO"/></a>
