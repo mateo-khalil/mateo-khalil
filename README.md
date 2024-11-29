@@ -1,44 +1,119 @@
 <h1 align="left">Mateo Khalil 🖥️</h1>
 
-<h3 align="center">
-  <strong>Mobile and Web Automation Developer</strong>
+<h3 align="center" style="font-weight: bold; text-decoration: underline;">
+   Test Automation Developer
 </h3>
-
-### Technologies I Work With
 
 #### Testing Frameworks & Automation Tools
 
-<p align="left">
-  <a href="https://www.selenium.dev" target="_blank">Selenium <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/selenium.svg" alt="Selenium" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://webdriver.io" target="_blank">WebdriverIO <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/webdriverio.svg" alt="WebdriverIO" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://appium.io" target="_blank">Appium <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/appium.svg" alt="Appium" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://mochajs.org" target="_blank">Mocha <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mocha.svg" alt="Mocha" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://k6.io" target="_blank">K6 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/k6.svg" alt="K6" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://cucumber.io" target="_blank">Cucumber <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cucumber.svg" alt="Cucumber" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://cucumber.io/docs/gherkin/" target="_blank">Gherkin <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gherkin.svg" alt="Gherkin" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://playwright.dev" target="_blank">Playwright <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/playwright.svg" alt="Playwright" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://www.cypress.io" target="_blank">Cypress <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cypress.svg" alt="Cypress" width="16" height="16" style="fill: white;"></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Selenium</span>
+      <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">WebdriverIO</span>
+      <img src="assets/icons/webdriverio.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">K6</span>
+      <img src="https://raw.githubusercontent.com/grafana/k6/ec1f601e4fb509f47f0fedbcf5a899fb3e696e5c/assets/logo.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Cucumber</span>
+      <img src="https://www.svgrepo.com/show/353625/cucumber.svg" width="16" height="16">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Appium</span>
+      <img src="https://www.svgrepo.com/show/353413/appium.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Cypress</span>
+      <img src="https://www.svgrepo.com/show/305923/cypress.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Playwright</span>
+      <img src="https://raw.githubusercontent.com/microsoft/playwright/b5bd543cc6935f62732da3b6183bd319eb2bdc2a/packages/web/src/assets/playwright-logo.svg" width="16" height="16">
+    </td>
+  </tr>
+</table>
 
 #### Programming Languages
 
-<p align="left"> 
-  <a href="https://www.javascript.com" target="_blank">JavaScript <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" alt="JavaScript" width="16" height="16" style="fill: white;"></a><br> 
-  <a href="https://www.typescriptlang.org" target="_blank">TypeScript <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" alt="TypeScript" width="16" height="16" style="fill: white;"></a><br> 
-  <a href="https://www.java.com" target="_blank">Java <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/java.svg" alt="Java" width="16" height="16" style="fill: white;"></a><br> 
-  <a href="https://kotlinlang.org" target="_blank">Kotlin <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kotlin.svg" alt="Kotlin" width="16" height="16" style="fill: white;"></a><br> 
-  <a href="https://www.python.org" target="_blank">Python <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" width="16" height="16" style="fill: white;"></a> 
-</p>
+<table>
+  <tr>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">JavaScript</span>
+      <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">TypeScript</span>
+      <img src="https://www.svgrepo.com/show/349540/typescript.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Python</span>
+      <img src="https://www.svgrepo.com/show/452091/python.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Go</span>
+      <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" width="16" height="16">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Java</span>
+      <img src="https://www.svgrepo.com/show/452234/java.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Kotlin</span>
+      <img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" width="16" height="16">
+    </td>
+  </tr>
+</table>
 
-#### CI/CD Tools
+#### CI/CD Tools and Cloud Services
 
-<p align="left">
-  <a href="https://www.jenkins.io" target="_blank">Jenkins <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jenkins.svg" alt="Jenkins" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://fastlane.tools" target="_blank">Fastlane <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/fastlane.svg" alt="Fastlane" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://www.docker.com" target="_blank">Docker <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" alt="Docker" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://github.com/features/actions" target="_blank">GitHub Actions <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg" alt="GitHub Actions" width="16" height="16" style="fill: white;"></a><br>
-  <a href="https://circleci.com" target="_blank">CircleCI <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/circleci.svg" alt="CircleCI" width="16" height="16" style="fill: white;"></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Jenkins</span>
+      <img src="https://www.svgrepo.com/show/373699/jenkins.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Fastlane</span>
+      <img src="https://www.svgrepo.com/show/353731/fastlane.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Docker</span>
+      <img src="https://www.svgrepo.com/show/448221/docker.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">GitHub Actions</span>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg" width="16" height="16">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">CircleCI</span>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/circleci.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">AWS</span>
+      <img src="https://www.svgrepo.com/show/448266/aws.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Azure</span>
+      <img src="https://www.svgrepo.com/show/373455/azure.svg" width="16" height="16">
+    </td>
+    <td>
+      <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">Kubernetes</span>
+      <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="16" height="16">
+    </td>
+  </tr>
+</table>
 
 ### Blog Posts
 
