@@ -16,7 +16,7 @@
     </td>
     <td>
       <span style="color: #0366d6; text-decoration: underline; cursor: pointer;">WebdriverIO</span>
-      <img src="https://cdn.brandfetch.io/idV7ZoyErg/theme/dark/logo.svg?c=1bfwsmEH20zzEfSNTed" width="16" height="16">
+      <img src="assets/icons/webdriverio.svg" width="16" height="16">
     </td>
   </tr>
   <tr>
