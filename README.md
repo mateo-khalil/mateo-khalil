@@ -1,6 +1,6 @@
 <h1 align="left">Mateo Khalil 🖥️</h1>
 
-<h3 align="center" style="font-size: 24px; font-weight: bold; text-decoration: underline;">
+<h3 align="center" style="font-weight: bold; text-decoration: underline;">
    Test Automation Developer & Cloud Solutions Specialist
 </h3>
 
