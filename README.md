@@ -11,7 +11,9 @@
 <a href="https://medium.com/@mateo-khalil" target="_blank" style="display: inline-block; margin-left: 10px;">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" style="height: 30px; vertical-align: middle;"/>
 </a>
-
+<a href="https://www.linkedin.com/in/mateo-khalil/" target="_blank" style="display: inline-block; margin-left: 10px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="height: 30px; vertical-align: middle;"/>
+</a>
 <hr/>
 
 <p align="center">
