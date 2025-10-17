@@ -9,13 +9,14 @@
 
 <h3 align="left" style="display: inline-block;">Follow Me:</h3>
 <a href="https://medium.com/@mateo-khalil" target="_blank" style="display: inline-block; margin-left: 10px;">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium Profile" style="height: 30px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="height: 30px; vertical-align: middle;"/>
 </a>
 <a href="https://www.linkedin.com/in/mateo-khalil/" target="_blank" style="display: inline-block; margin-left: 10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="height: 30px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="height: 30px; vertical-align: middle;"/>
 </a>
 <hr/>
 
 <p align="center">
   <img src="https://github.com/mateo-khalil/mateo-khalil/blob/main/assets/mario-dev.gif?raw=true" alt="Mario Developer" style="width: 100%;"/>
 </p>
+https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
