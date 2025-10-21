@@ -14,9 +14,7 @@
 <!-- <a href="https://www.linkedin.com/in/mateo-khalil/" target="_blank" style="display: inline-block; margin-left: 10px;">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="height: 30px; vertical-align: middle;"/>
 </a> -->
-<hr/>
-
 <p align="center">
   <img src="https://github.com/mateo-khalil/mateo-khalil/blob/main/assets/mario-dev.gif?raw=true" alt="Mario Developer" style="width: 100%;"/>
 </p>
-https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+
