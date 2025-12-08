@@ -1,15 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mateo Khalil</h1>
-<h3 align="center">QA Solutions Specialist</h3>
+<h1 align="left">Mateo Khalil Duran</h1>
 
-### Blogs posts
+### About me.
+
+I'm a **Software Developer** currently specializing in **Quality Assurance**. My professional focus is on developing robust automated test scripts that capture critical functional flows and edge cases. I also design and optimize **CI/CD pipelines** to ensure these tests run efficiently in production environments.
+
+In my personal time, I build applications aimed at reducing service costs, leveraging the democratization of software development. I back these projects with my strong background in **security testing** and **vulnerability detection** to ensure they are safe and scalable.
+
+### My tech stack
+- **Languages**
+  - TypeScript, JavaScript, Python, SQL, Bash
+
+- **Testing & Automation**
+  - Playwright, Selenium, Cypress, Postman, k6, JMeter
+
+- **CI/CD & DevOps**
+  - Jenkins, GitHub Actions, Docker, Kubernetes, Terraform
+
+- **Web Development**
+  - Next.js, React, Node.js, Vercel, Supabase
+
+- **Security & Code Analysis**
+  - SonarQube, OWASP ZAP, Burp Suite
+
+- **Data & Cloud**
+  - Databricks, AWS
+
+---
+
+### Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+- [Ruby and Node Version Management in Jenkins Pipelines: A Step-by-Step Guide &lpar;2024&rpar;](https://mateo-khalil.medium.com/mastering-ruby-and-node-version-management-in-jenkins-pipelines-a-step-by-step-guide-2024-7a648d79d489?source=rss-6997876df81b------2)
+- [Full Guide for Setting up Custom Node in Jenkins &lpar;MacOS&rpar;](https://mateo-khalil.medium.com/full-guide-for-setting-up-custom-node-in-jenkins-macos-6813b470d3c4?source=rss-6997876df81b------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@mateo-khalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mateo-khalil" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media1.tenor.com/m/nVnp3AebrakAAAAC/l-death-note-death-note.gif" alt="L Computer" style="width: 200%;"/>
+</p>
 
