@@ -6,25 +6,6 @@ I'm a **Software Developer** currently specializing in **Quality Assurance**. My
 
 In my personal time, I build applications aimed at reducing service costs, leveraging the democratization of software development. I back these projects with my strong background in **security testing** and **vulnerability detection** to ensure they are safe and scalable.
 
-### My tech stack
-- **Languages**
-  - TypeScript, JavaScript, Python, SQL, Bash
-
-- **Testing & Automation**
-  - Playwright, Selenium, Cypress, Postman, k6, JMeter
-
-- **CI/CD & DevOps**
-  - Jenkins, GitHub Actions, Docker, Kubernetes, Terraform
-
-- **Web Development**
-  - Next.js, React, Node.js, Vercel, Supabase
-
-- **Security & Code Analysis**
-  - SonarQube, OWASP ZAP, Burp Suite
-
-- **Data & Cloud**
-  - Databricks, AWS
-
 ---
 
 ### Blog Posts
